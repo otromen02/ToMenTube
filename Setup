@@ -1,0 +1,7 @@
+echo "# ToMenTube" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/otromen02/ToMenTube.git
+git push -u origin main
